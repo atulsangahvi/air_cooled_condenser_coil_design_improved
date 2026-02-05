@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Streamlit
+.streamlit/
+secrets.toml
+
+# Logs
+*.log
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.temp
+
+# Data files (if you want to exclude)
+*.csv
+*.xlsx
+*.xls
+*.pdf
+
+# Jupyter
+.ipynb_checkpoints
+
+# Windows
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Byte-compiled / optimized / DLL files
+*.pyc
