@@ -1,5 +1,5 @@
-streamlit==1.32.0
+streamlit>=1.32.0
 numpy>=1.26.0
-pandas==2.2.2
-matplotlib==3.9.0
-CoolProp
+pandas>=2.2.0
+matplotlib>=3.9.0
+CoolProp>=7.0.0
